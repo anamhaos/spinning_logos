@@ -5,3 +5,5 @@
 ToDo: Figure out how to abstract out the object's size.
 
 ToDo: Minify it some more.
+
+View [example](http://haos.house/spinning_logos_min/).
